@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paras204
-- 👀 I’m interested in competetive programming , web devlopment and interesting stuff.
+- 👀 I’m interested in competetive programming , web devlopment etc.
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
