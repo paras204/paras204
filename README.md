@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @paras204
-- 👀 I’m interested in competetive programming , web devlopment etc.
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I'm an undergraduate student pursuing Computer Science and Engineering at the Indian Institute of Technology (IIT) Kanpur. Welcome to my GitHub profile!
 
-<!---
-paras204/paras204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+
+- 🎓 Currently, I am studying Computer Science and Engineering at IIT Kanpur.
+- 💻 My interests lie in software development, algorithms, and artificial intelligence.
+- 🌱 I'm passionate about learning new technologies and contributing to open source projects.
+- 📚 I enjoy solving challenging problems and exploring innovative solutions.
